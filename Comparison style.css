@@ -35,3 +35,23 @@ body {
   display: block;
 }
 /* end of navbar css*/
+
+div .comparisons {
+  color: rgb(16, 156, 149);
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding:20px;
+  text-align: inherit;
+}
+div h1 { 
+  color: rgb(16, 156, 149);
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding:20px;
+}
+
+hr.style1{
+  border-top: 1px solid lightgray;
+}

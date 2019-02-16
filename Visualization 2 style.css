@@ -35,3 +35,28 @@ body {
   display: block;
 }
 /* end of navbar css*/
+
+/* formatting body of page */
+body h1{
+  color: rgb(16, 156, 149);
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  padding:20px;
+}
+div {
+  background-color: white;
+}
+hr.style1{
+  border-top: 1px solid lightgray;
+}
+img{
+  float:inherit;
+}
+p {
+  text-align: center;
+  color: gray;
+  line-height: 40px;
+  font-size: 15px;
+  padding: 5px;
+}
